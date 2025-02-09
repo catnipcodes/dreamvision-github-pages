@@ -6,3 +6,6 @@ title: Dreamvision 98
 author: catnip
 description: Dreamvision 98 is a fantasy console for macOS designed for gamedev, graphical experimentation and livecoding
 
+show_downloads: true
+github:
+	zip_url: https://catnipcodes.github.io/dreamvision-website/downloads/DV98_alpha_1.zip

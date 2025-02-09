@@ -2,17 +2,6 @@
 title: Dreamvision 98 for macOS
 ---
 
-<style>
-body {
-    background-image: linear-gradient(
-#5BCFFB,
-#F5ABB9,
-#FFFFFF
-);
-    margin: 0;
-    min-height: 100vh;
-}
-</style>
 
 ### A fantasy console built for graphics experimentation, gamedev and livecoding
 

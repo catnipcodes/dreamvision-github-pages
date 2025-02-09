@@ -1,4 +1,7 @@
-theme: cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
 title: Dreamvision 98
 author: catnip
 description: Dreamvision 98 is a fantasy console for macOS designed for gamedev, graphical experimentation and livecoding

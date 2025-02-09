@@ -7,6 +7,8 @@ title: Dreamvision 98 for macOS
 
 Dreamvision 98 is a fantasy console - an emulated computer / game console, but not based on a real machine. You can program your own apps and games as well as playing existing ones.
 
+![Dreamvision running a graphics program](images/screenshot_graphics.jpg)
+
 It has a unique, retrofuturist design - a 1990s fever dream of a future console. It's also almost entirely GPU driven, everything from the CPU to the audio system runs on your computer's graphics processor.
 
 ## Important: Dreamvision is in alpha
@@ -26,6 +28,8 @@ In addition, the API might change in future, breaking any code you write now (th
 ## Developing for Dreamvision
 
 It's designed to be powerful while staying easy and fun to program. It's designed as a live coding environment, meaning when you save your code it compiles and updates while still running. This means you can edit your game while its running, and it can be used for live performance too.
+
+![A game running in Dreamvision with code alongside](images/screenshot_editor.jpg)
 
 Dreamvision apps are written in Metal Shading Language (MSL, C++14 with a few minor differences and its own standard library), and there's an easy to use API for 2D graphics and full in-app help documenting everything.
 
